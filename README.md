@@ -73,4 +73,4 @@ probability for condensation on surface: 0.034900 (with 1 degree tolerance)
 
 # License
 
-This library is licensed under certain license. See me for details.
+This library is probably licensed under certain license. See me for details.
