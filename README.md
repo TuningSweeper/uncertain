@@ -43,7 +43,8 @@ x1: value = 10.000000, std_dev = 1.560608, 95% bounds: [7.433028 12.566972]
 x2: value = 10.000000, std_dev = 0.058209, 95% bounds: [9.904255 10.095745]
 x: value = 20.000000, std_dev = 1.561693, 95% bounds: [17.431243 22.568757]
 y: value = 5.000000, std_dev = 0.000000, 95% bounds: [5.000000 5.000000]
-area: value = 100.000000, std_dev = 7.808467, 99% bounds: [81.834788 118.165212]```
+area: value = 100.000000, std_dev = 7.808467, 99% bounds: [81.834788 118.165212]
+```
 
 
 ### Example 2: Averaging values from a non-ideal sensor and checking the probability of freezing
